@@ -3,7 +3,7 @@ import './App.css';
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 // - - - - - - - CHANGE THE NAME VARIABLE TO YOUR NAME - - - - - - - - -
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-const name = 'Fulanito de Tal';
+const name = 'Joel';
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 // - - - - - - - CHANGE THE NAME VARIABLE TO YOUR NAME - - - - - - - - -
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -16,11 +16,11 @@ function App() {
         <p>
           Hola, mi nombre es {name} <span className="heart">♥️</span> DevOps and React
         </p>
-        <p className="small">
+       <p className="small">
           Edit <code>src/App.jsx</code> and save to reload.
         </p>
         <p className="small">
-          Actividad realizada por Carla Rodriguez y Diego Gentner.
+          Hola soy Joel Ladino
         </p>
       </header>
     </div>
